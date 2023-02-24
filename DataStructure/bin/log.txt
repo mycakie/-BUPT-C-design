@@ -1,0 +1,686 @@
+(2022-06-04 21:51:21 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-04 21:52:50 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-04 21:52:50 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-04 21:53:02 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-04 21:53:02 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-04 21:54:04 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-04 21:54:24 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-04 21:54:25 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-04 21:54:25 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-04 21:55:31 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-04 21:55:36 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-04 21:55:36 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-04 21:56:27 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-04 21:56:41 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-04 21:56:41 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-04 21:56:48 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-04 21:57:15 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-04 21:57:15 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-04 22:06:12 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-04 22:07:44 ) QWidget::repaint: Recursive repaint detected
+(2022-06-04 22:07:48 ) QWidget::paintEngine: Should no longer be called
+(2022-06-04 22:07:48 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-04 22:07:48 ) QPainter::setFont: Painter not active
+(2022-06-04 22:07:48 ) QPainter::setPen: Painter not active
+(2022-06-04 22:36:18 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-04 22:37:20 ) QWidget::repaint: Recursive repaint detected
+(2022-06-04 22:37:23 ) QWidget::paintEngine: Should no longer be called
+(2022-06-04 22:37:23 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-04 22:37:23 ) QPainter::setFont: Painter not active
+(2022-06-04 22:37:23 ) QPainter::setPen: Painter not active
+(2022-06-04 22:44:27 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-04 22:45:23 ) QWidget::repaint: Recursive repaint detected
+(2022-06-04 22:45:23 ) QWidget::repaint: Recursive repaint detected
+(2022-06-04 22:45:29 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-04 22:45:29 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-04 22:45:33 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-04 22:46:07 ) QWidget::repaint: Recursive repaint detected
+(2022-06-04 22:46:09 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-04 22:46:26 ) QWidget::repaint: Recursive repaint detected
+(2022-06-04 22:46:26 ) QWidget::repaint: Recursive repaint detected
+(2022-06-04 22:46:28 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-04 22:46:30 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-04 22:46:32 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-04 22:49:47 ) QWidget::repaint: Recursive repaint detected
+(2022-06-04 22:49:53 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-05 13:21:34 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-05 13:27:10 ) QWidget::repaint: Recursive repaint detected
+(2022-06-05 13:27:10 ) QWidget::repaint: Recursive repaint detected
+(2022-06-05 13:27:14 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-05 13:27:14 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-05 13:27:16 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-05 13:27:49 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-05 13:27:49 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-05 13:27:58 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-05 13:27:58 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-05 13:28:00 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-05 13:28:00 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-05 13:35:49 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-05 13:35:49 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-05 13:37:00 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-05 13:37:00 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-05 13:42:58 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-05 13:42:58 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-05 13:45:41 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-05 13:45:42 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-05 13:45:42 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-05 13:51:02 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-05 13:51:05 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-05 13:51:05 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-05 13:52:22 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-05 13:52:22 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-05 13:52:44 ) QWidget::repaint: Recursive repaint detected
+(2022-06-05 13:52:44 ) QWidget::repaint: Recursive repaint detected
+(2022-06-05 13:52:45 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-05 13:52:45 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-05 13:52:46 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-05 13:54:33 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-05 13:54:33 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-05 13:56:14 ) QWidget::repaint: Recursive repaint detected
+(2022-06-05 13:56:17 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-05 13:57:03 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-05 13:57:18 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-05 13:57:18 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-05 13:57:19 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-05 13:57:19 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-05 14:09:59 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-05 14:09:59 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-05 14:11:24 ) QWidget::repaint: Recursive repaint detected
+(2022-06-05 14:28:37 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-05 14:28:37 ) QBackingStore::flush() called for  QWidgetWindow(0x6288f70, name="MainWindwoWindow")  which does not have a handle.
+(2022-06-05 14:28:37 ) QBackingStore::flush() called for  QWidgetWindow(0x6288f70, name="MainWindwoWindow")  which does not have a handle.
+(2022-06-05 14:31:45 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-05 14:32:00 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-08 21:47:25 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-08 21:48:02 ) QObject::killTimer(): Error: timer id 5 is not valid for object 0x12dfc90 (MainWindwo, MainWindwo), timer has not been killed
+(2022-06-08 21:49:01 ) QWidget::repaint: Recursive repaint detected
+(2022-06-08 21:49:01 ) QWidget::repaint: Recursive repaint detected
+(2022-06-08 21:49:03 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:04 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:04 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:05 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:06 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:06 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:06 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:06 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:08 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:09 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:10 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:15 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:16 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:17 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:21 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:24 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:25 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:25 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:25 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:26 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:26 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:26 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:26 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:26 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:26 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:27 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:27 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:27 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:27 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:27 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:27 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:29 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:29 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:29 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:29 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:30 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:30 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:30 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:30 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:30 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:31 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:31 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:31 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:31 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:31 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:38 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:47 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:50 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:51 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:55 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:55 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:56 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:56 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:56 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:56 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:57 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:57 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:57 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:57 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:57 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:58 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:58 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:49:58 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:50:05 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:50:07 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:50:09 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:50:34 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:51:15 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-08 21:51:45 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-08 21:51:45 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-08 21:52:13 ) QWidget::repaint: Recursive repaint detected
+(2022-06-08 21:52:13 ) QWidget::repaint: Recursive repaint detected
+(2022-06-08 21:52:15 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:52:16 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:52:17 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:56:18 ) QWidget::repaint: Recursive repaint detected
+(2022-06-08 21:56:18 ) QWidget::repaint: Recursive repaint detected
+(2022-06-08 21:56:19 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:56:20 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:56:20 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 21:57:30 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-08 22:02:31 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-08 22:03:25 ) QWidget::repaint: Recursive repaint detected
+(2022-06-08 22:03:25 ) QWidget::repaint: Recursive repaint detected
+(2022-06-08 22:03:26 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 22:03:27 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 22:03:27 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 22:04:27 ) QWidget::repaint: Recursive repaint detected
+(2022-06-08 22:04:27 ) QWidget::repaint: Recursive repaint detected
+(2022-06-08 22:04:28 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 22:04:29 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 22:04:29 ) QBackingStore::endPaint() called with active painter; did you forget to destroy it or call QPainter::end() on it?
+(2022-06-08 22:08:05 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-08 22:11:59 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-08 22:13:35 ) QWidget::repaint: Recursive repaint detected
+(2022-06-08 22:13:38 ) QWidget::paintEngine: Should no longer be called
+(2022-06-08 22:13:38 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-08 22:13:38 ) QPainter::setFont: Painter not active
+(2022-06-08 22:13:38 ) QPainter::setPen: Painter not active
+(2022-06-08 22:18:35 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-08 22:19:34 ) QWidget::repaint: Recursive repaint detected
+(2022-06-08 22:19:40 ) QWidget::paintEngine: Should no longer be called
+(2022-06-08 22:19:40 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-08 22:19:40 ) QPainter::setFont: Painter not active
+(2022-06-08 22:19:40 ) QPainter::setPen: Painter not active
+(2022-06-08 22:20:24 ) QWidget::repaint: Recursive repaint detected
+(2022-06-08 22:20:28 ) QWidget::paintEngine: Should no longer be called
+(2022-06-08 22:20:28 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-08 22:20:28 ) QPainter::setFont: Painter not active
+(2022-06-08 22:20:28 ) QPainter::setPen: Painter not active
+(2022-06-08 23:05:47 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 11:29:14 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 11:29:30 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 11:29:44 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 11:29:44 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 11:35:01 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 11:42:17 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 11:48:17 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 11:50:27 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 11:50:35 ) 0
+(2022-06-11 11:50:37 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 11:50:37 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 11:50:37 ) 0
+(2022-06-11 11:50:38 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 11:50:38 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 11:50:38 ) 0
+(2022-06-11 11:50:39 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 11:50:39 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 11:50:39 ) 0
+(2022-06-11 11:50:39 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 11:50:39 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 11:50:39 ) 0
+(2022-06-11 11:50:43 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 11:50:43 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 11:50:43 ) 0
+(2022-06-11 11:50:43 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 11:50:43 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 11:50:43 ) 0
+(2022-06-11 11:50:55 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 11:50:55 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 11:50:56 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 11:50:56 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 11:50:56 ) 0
+(2022-06-11 11:53:45 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 11:54:34 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 11:54:43 ) 0
+(2022-06-11 11:54:43 ) 0
+(2022-06-11 11:54:46 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 11:54:46 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 11:54:46 ) 0
+(2022-06-11 11:54:46 ) 0
+(2022-06-11 11:54:46 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 11:54:46 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 11:54:46 ) 0
+(2022-06-11 11:54:46 ) 0
+(2022-06-11 11:54:46 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 11:54:46 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 11:54:46 ) 0
+(2022-06-11 11:54:46 ) 0
+(2022-06-11 11:54:46 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 11:54:46 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 11:54:46 ) 0
+(2022-06-11 11:54:46 ) 0
+(2022-06-11 11:56:19 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 11:56:56 ) 0
+(2022-06-11 11:56:56 ) 今年我0
+(2022-06-11 12:04:23 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:04:33 ) 0
+(2022-06-11 12:04:33 ) 今年我0
+(2022-06-11 12:04:33 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:04:33 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:05:32 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:05:42 ) 0
+(2022-06-11 12:05:42 ) 今年我0
+(2022-06-11 12:05:42 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:05:42 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:14:49 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:14:57 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:14:57 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:16:05 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:16:35 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:16:35 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:17:35 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:17:43 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:17:43 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:17:45 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:17:45 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:17:45 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:17:45 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:17:45 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:17:45 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:17:45 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:17:45 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:17:45 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:17:45 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:17:45 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:17:45 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:18:40 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:19:14 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:19:25 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:19:25 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:19:27 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:19:27 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:19:30 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:19:30 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:19:30 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:19:30 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:20:06 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:22:31 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:23:46 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:32:58 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:34:19 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:36:42 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:36:51 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:36:51 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:36:51 ) ASSERT failure in QList<T>::operator[]: "index out of range", file D:/QT/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qlist.h, line 579
+(2022-06-11 12:38:27 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:38:42 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:38:42 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:38:47 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:38:47 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:40:07 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:40:16 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:40:16 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:41:06 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:41:13 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:41:13 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:41:13 ) ASSERT failure in QList<T>::operator[]: "index out of range", file D:/QT/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qlist.h, line 579
+(2022-06-11 12:44:03 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:44:13 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:44:13 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:44:13 ) ASSERT failure in QList<T>::operator[]: "index out of range", file D:/QT/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qlist.h, line 579
+(2022-06-11 12:45:39 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:45:51 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:45:51 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:46:12 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:46:34 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:46:34 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:47:10 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:47:28 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:47:28 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:50:48 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:51:16 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:51:25 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:51:25 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:51:54 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:52:07 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:52:18 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:52:18 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:52:45 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:54:04 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:54:04 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:54:04 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:54:04 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:54:04 ) ASSERT failure in QList<T>::operator[]: "index out of range", file D:/QT/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qlist.h, line 579
+(2022-06-11 12:56:33 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:56:46 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:56:46 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:57:03 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 12:57:25 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:57:25 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:57:55 ) QWidget::repaint: Recursive repaint detected
+(2022-06-11 12:57:58 ) QWidget::paintEngine: Should no longer be called
+(2022-06-11 12:57:58 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-11 12:57:58 ) QPainter::setFont: Painter not active
+(2022-06-11 12:57:58 ) QPainter::setPen: Painter not active
+(2022-06-11 12:59:42 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:59:42 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 12:59:56 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 12:59:56 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:00:25 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 13:30:30 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 13:30:49 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:30:49 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:30:50 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:30:50 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:30:50 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:30:50 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:30:52 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:30:52 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:30:52 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:30:52 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:31:05 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 13:31:29 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:31:29 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:31:29 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:31:29 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:31:29 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:31:29 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:31:57 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 13:33:23 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:33:23 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:34:38 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:34:38 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:34:41 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:34:41 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:35:05 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:35:05 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:35:14 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:35:14 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:35:31 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:35:31 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:35:36 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:35:36 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:36:28 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:36:28 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:36:33 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:36:33 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:36:33 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:36:33 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:36:34 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:36:34 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:36:34 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:36:34 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:36:34 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:36:34 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:40:13 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 13:40:29 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:40:29 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:40:29 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:40:29 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:40:32 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:40:32 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:40:42 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:40:42 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:40:43 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:40:43 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:43:07 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:43:07 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:43:07 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:43:07 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:43:17 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:43:17 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:43:25 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:43:25 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:46:08 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:46:08 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:46:13 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:46:13 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:46:13 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:46:13 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:46:42 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 13:46:54 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:46:54 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:47:30 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 13:47:44 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:47:44 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:52:11 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 13:52:46 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 13:52:54 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:52:54 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:53:13 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:53:13 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:53:15 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:53:15 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:53:42 ) QWidget::repaint: Recursive repaint detected
+(2022-06-11 13:54:06 ) QWidget::paintEngine: Should no longer be called
+(2022-06-11 13:54:06 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-11 13:54:06 ) QPainter::setFont: Painter not active
+(2022-06-11 13:54:06 ) QPainter::setPen: Painter not active
+(2022-06-11 13:56:08 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 13:56:17 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 13:56:17 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 13:57:06 ) QWidget::repaint: Recursive repaint detected
+(2022-06-11 13:57:09 ) QWidget::paintEngine: Should no longer be called
+(2022-06-11 13:57:09 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-11 13:57:09 ) QPainter::setFont: Painter not active
+(2022-06-11 13:57:09 ) QPainter::setPen: Painter not active
+(2022-06-11 13:58:13 ) QWidget::repaint: Recursive repaint detected
+(2022-06-11 13:58:16 ) QWidget::paintEngine: Should no longer be called
+(2022-06-11 13:58:16 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-11 13:58:16 ) QPainter::setFont: Painter not active
+(2022-06-11 13:58:16 ) QPainter::setPen: Painter not active
+(2022-06-11 14:00:38 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 14:00:38 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 14:00:38 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 14:00:38 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 14:00:39 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 14:00:39 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 14:00:39 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 14:00:39 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 14:00:44 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 14:00:44 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 14:00:47 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 14:00:47 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 14:00:48 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 14:00:48 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 14:00:48 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 14:00:48 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 14:00:56 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 14:00:56 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 14:30:32 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 14:32:21 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 14:32:30 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 14:32:30 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 14:36:17 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 14:45:32 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 14:45:38 ) QSqlQuery::exec: database not open
+(2022-06-11 14:45:40 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 14:45:40 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 14:45:40 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 14:45:40 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 14:46:30 ) QWidget::repaint: Recursive repaint detected
+(2022-06-11 14:46:32 ) QWidget::paintEngine: Should no longer be called
+(2022-06-11 14:46:32 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-11 14:46:32 ) QPainter::setFont: Painter not active
+(2022-06-11 14:46:32 ) QPainter::setPen: Painter not active
+(2022-06-11 14:46:51 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 14:46:51 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 14:47:10 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 14:47:10 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 15:05:29 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 15:05:46 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 15:05:55 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 15:05:55 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 15:06:42 ) QWidget::repaint: Recursive repaint detected
+(2022-06-11 15:06:45 ) QWidget::paintEngine: Should no longer be called
+(2022-06-11 15:06:45 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-11 15:06:45 ) QPainter::setFont: Painter not active
+(2022-06-11 15:06:45 ) QPainter::setPen: Painter not active
+(2022-06-11 15:07:15 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 15:07:15 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 15:07:18 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 15:07:18 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 15:07:47 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 15:07:47 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 15:11:49 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 15:11:49 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 15:12:05 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 15:12:05 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 15:12:43 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 15:12:43 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 15:13:53 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 15:14:18 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 15:14:18 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 15:14:20 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 15:14:20 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 19:44:17 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-11 19:45:24 ) QSqlQuery::exec: database not open
+(2022-06-11 19:45:25 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 19:45:25 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 19:46:08 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 19:46:08 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 19:46:11 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 19:46:11 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 19:46:12 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 19:46:12 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 19:46:16 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 19:46:16 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-11 19:47:42 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-11 19:47:42 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-12 00:02:35 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-12 00:03:20 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-12 00:03:20 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-12 00:03:34 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-12 00:03:34 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-12 00:03:36 ) QWidget::repaint: Recursive repaint detected
+(2022-06-12 00:03:36 ) QWidget::repaint: Recursive repaint detected
+(2022-06-12 00:03:38 ) QWidget::paintEngine: Should no longer be called
+(2022-06-12 00:03:38 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-12 00:03:38 ) QPainter::setFont: Painter not active
+(2022-06-12 00:03:38 ) QPainter::setPen: Painter not active
+(2022-06-12 00:03:39 ) QWidget::paintEngine: Should no longer be called
+(2022-06-12 00:03:39 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-12 00:03:39 ) QPainter::setFont: Painter not active
+(2022-06-12 00:03:39 ) QPainter::setPen: Painter not active
+Warning: File:() Line:(0) Function:() QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted() (2022-06-12 00:21:56 )
+(2022-06-12 00:36:50 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-12 00:37:00 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-12 00:37:00 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-12 00:37:15 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-12 00:37:15 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-12 00:37:18 ) 用户添加了个人活动
+(2022-06-12 00:37:18 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-12 00:37:18 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-12 00:37:33 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-12 00:37:33 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-12 00:37:34 ) 用户添加个人活动时检测到时间冲突
+(2022-06-12 00:37:34 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-12 00:37:34 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-12 00:41:20 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-12 01:08:07 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-12 01:08:07 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-12 01:08:12 ) 用户添加个人活动时检测到时间冲突
+(2022-06-12 01:08:12 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-12 01:08:12 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-12 01:08:52 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-12 01:08:52 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-12 01:10:42 ) 用户设置了闹钟
+(2022-06-12 01:11:04 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-12 01:11:04 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-12 01:11:04 ) 用户进行了查找日程操作
+(2022-06-13 09:23:15 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-13 09:23:42 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-13 09:23:42 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-13 09:23:45 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-13 09:23:45 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-13 09:23:45 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-13 09:23:45 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-13 09:23:52 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-13 09:23:52 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-13 09:23:53 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-13 09:23:53 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-13 09:23:53 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-13 09:23:53 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-13 09:23:55 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-13 09:23:55 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-13 09:23:56 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-13 09:23:56 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-13 09:23:59 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-13 09:23:59 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-13 09:24:01 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-13 09:24:01 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-13 09:24:10 ) QWidget::repaint: Recursive repaint detected
+(2022-06-13 09:24:10 ) QWidget::repaint: Recursive repaint detected
+(2022-06-13 09:24:10 ) QWidget::repaint: Recursive repaint detected
+(2022-06-13 09:24:10 ) QWidget::repaint: Recursive repaint detected
+(2022-06-13 09:24:15 ) 闹钟响了
+(2022-06-13 09:24:15 ) QWidget::repaint: Recursive repaint detected
+(2022-06-13 09:24:15 ) QWidget::repaint: Recursive repaint detected
+(2022-06-13 09:24:15 ) QWidget::repaint: Recursive repaint detected
+(2022-06-13 09:24:15 ) QWidget::repaint: Recursive repaint detected
+(2022-06-13 09:24:15 ) QWidget::repaint: Recursive repaint detected
+(2022-06-13 09:24:15 ) 闹钟响了
+(2022-06-13 09:24:15 ) 闹钟响了
+(2022-06-13 09:24:15 ) QWidget::paintEngine: Should no longer be called
+(2022-06-13 09:24:15 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-13 09:24:15 ) QPainter::setFont: Painter not active
+(2022-06-13 09:24:15 ) QPainter::setPen: Painter not active
+(2022-06-13 09:24:16 ) 闹钟响了
+(2022-06-13 09:24:16 ) QWidget::paintEngine: Should no longer be called
+(2022-06-13 09:24:16 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-13 09:24:16 ) QPainter::setFont: Painter not active
+(2022-06-13 09:24:16 ) QPainter::setPen: Painter not active
+(2022-06-13 09:24:16 ) 闹钟响了
+(2022-06-13 09:24:16 ) QWidget::paintEngine: Should no longer be called
+(2022-06-13 09:24:16 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-13 09:24:16 ) QPainter::setFont: Painter not active
+(2022-06-13 09:24:16 ) QPainter::setPen: Painter not active
+(2022-06-13 09:24:16 ) 闹钟响了
+(2022-06-13 09:24:16 ) QWidget::paintEngine: Should no longer be called
+(2022-06-13 09:24:16 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-13 09:24:16 ) QPainter::setFont: Painter not active
+(2022-06-13 09:24:16 ) QPainter::setPen: Painter not active
+(2022-06-13 09:24:16 ) 闹钟响了
+(2022-06-13 09:24:16 ) QWidget::paintEngine: Should no longer be called
+(2022-06-13 09:24:16 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-13 09:24:16 ) QPainter::setFont: Painter not active
+(2022-06-13 09:24:16 ) QPainter::setPen: Painter not active
+(2022-06-13 09:24:16 ) 闹钟响了
+(2022-06-13 09:24:16 ) QWidget::paintEngine: Should no longer be called
+(2022-06-13 09:24:16 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-13 09:24:16 ) QPainter::setFont: Painter not active
+(2022-06-13 09:24:16 ) QPainter::setPen: Painter not active
+(2022-06-13 09:24:17 ) 闹钟响了
+(2022-06-13 09:24:17 ) QWidget::paintEngine: Should no longer be called
+(2022-06-13 09:24:17 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-13 09:24:17 ) QPainter::setFont: Painter not active
+(2022-06-13 09:24:17 ) QPainter::setPen: Painter not active
+(2022-06-13 09:24:17 ) 闹钟响了
+(2022-06-13 09:24:17 ) QWidget::paintEngine: Should no longer be called
+(2022-06-13 09:24:17 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-13 09:24:17 ) QPainter::setFont: Painter not active
+(2022-06-13 09:24:17 ) QPainter::setPen: Painter not active
+(2022-06-13 09:24:18 ) 闹钟响了
+(2022-06-13 09:24:18 ) QWidget::paintEngine: Should no longer be called
+(2022-06-13 09:24:18 ) QPainter::begin: Paint device returned engine == 0, type: 1
+(2022-06-13 09:24:18 ) QPainter::setFont: Painter not active
+(2022-06-13 09:24:18 ) QPainter::setPen: Painter not active
+(2022-06-13 09:24:46 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-13 09:24:46 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-13 09:24:59 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-13 09:24:59 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-13 09:25:25 ) 闹钟响了
+(2022-06-13 09:25:56 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-13 09:25:56 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-13 09:27:13 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-13 09:27:19 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-13 09:27:19 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-13 09:27:51 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-13 09:27:51 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-13 09:27:57 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-13 09:27:57 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-13 14:11:01 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-13 14:11:21 ) QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+(2022-06-13 14:11:21 ) QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+(2022-06-13 14:15:37 ) 闹钟响了
+(2022-06-14 09:59:52 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
+(2022-06-14 10:01:16 ) QMetaObject::connectSlotsByName: No matching signal for on_buttonBox_accepted()
