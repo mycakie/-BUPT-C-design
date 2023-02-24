@@ -1,2 +1,2 @@
 # myBUPTdesign
-BUPT 课程设计
+BUPT CS课程设计
