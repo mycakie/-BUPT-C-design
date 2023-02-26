@@ -6,6 +6,8 @@
 服务端主要包括课程信息储存更新管理，作业压缩保存，系统维护及用户日志记录与保存等功能模块。
 整体结构：
 ![Image text](https://raw.githubusercontent.com/mycakie/myBUPTdesign/main/DataStructure/%E6%9E%B6%E6%9E%84.png)
+
+
 系统能够实现的功能有：
 客户端：
 ①学生可以输入课程名称，或者通过课程表查询课程信息
